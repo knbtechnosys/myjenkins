@@ -1,6 +1,6 @@
 node{
   
-    stage('Clone my nitin java project') {
+    stage('Clone  my nitin java project') {
    git branch: 'main', url: 'https://github.com/knbtechnosys/DevOps_7PM_Batch.git'
 }
 
